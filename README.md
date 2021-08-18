@@ -1,2 +1,0 @@
-# dbt
-For dbt training
